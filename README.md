@@ -2,7 +2,7 @@
 - 👀 I’m interested in future typo.
 - 🌱
 - to collaborate on UI - AI. 
-- 📫 kishmariageorge@.com
+- 📫 KishmariaGeorge@.com
 
 <!---
 q1sh0/q1sh3X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
