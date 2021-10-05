@@ -1,3 +1,4 @@
+- bio: atom
 - 👋 Hi, I’m @q1sh0 
 - 👀 I’m interested in future typ0.
 - 🌱
