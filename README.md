@@ -11,7 +11,7 @@
 - #Atomic - codex dock UI architecture https://q1sh0.github.io/atomic-codexdock/
 
 
-- safari-demo: cyber city https://q1sh0.github.io/mirror-colony/
+- safari=demo: cyber city https://q1sh0.github.io/mirror-colony/
 <!---
 q1sh0/q1sh3X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
