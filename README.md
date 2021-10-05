@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @q1sh0 
-- 👀 I’m interested in future typo.
+- 👀 I’m interested in future typ0.
 - 🌱
 - to collaborate on UI - AI. 
 - 📫 KishmariaGeorge@.com
 
 
-- #Resume https://georgekish.github.io/root-resume/
-- #Atomic UI builder architecture https://github.com/GeorgeKish/atomic-codex
-- #Atomic UI builded architecture https://georgekish.github.io/atomic-codexdock/
+- #root-resume: https://q1sbo.github.io/root-resume/
+- #Atomic - codex UI architecture https://github.com/q1sh0/atomic-codex
+- #Atomic - codex UI architecture https://georgekish.q1sh0.io/atomic-codexdock/
 
 <!---
 q1sh0/q1sh3X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
