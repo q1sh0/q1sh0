@@ -5,7 +5,7 @@
 - 📫 KishmariaGeorge@.com
 
 
-- #Avatar: https://q1sh0.github.io/root-resume/
+- #coder - avatar: https://q1sh0.github.io/root-resume/
 - #Atomic - codex UI architecture https://github.com/q1sh0/atomic-codex
 - #Atomic - codex UI architecture https://github.com/q1sh0/atomic-codexdock/
 
