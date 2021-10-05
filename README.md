@@ -2,7 +2,7 @@
 - 👀 I’m interested in future typ0.
 - 🌱
 - = to collaborate on UI - AI. 
-- 📫 KishmariaGeorge@.com
+- 📫 Kishmariageorge@.com
 
 
 - #coder - avatar: https://q1sh0.github.io/root-resume/
