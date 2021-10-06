@@ -4,8 +4,8 @@
 - 🌱
 - = to collaborate on UI - AI. 
 - 📫 Kishmariageorge@gmail.com
-- Code:
-    - #coder - avatar: https://q1sh0.github.io/root-resume/
+- c0d3r:
+    -  avatar: https://q1sh0.github.io/root-resume/
     - #Atomic - codex UI architecture https://github.com/q1sh0/atomic-codex
     - #Atomic - codex dock UI architecture https://q1sh0.github.io/atomic-codexdock/
     - #Atomic - safari=demo: cyberCity https://q1sh0.github.io/mirror-colony/
