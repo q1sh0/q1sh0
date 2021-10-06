@@ -1,15 +1,14 @@
 - bio: atom
 - 👋 Hi, I’m @q1sh0 
 - 👀 I’m interested in future typ0.
-- 🌱
-- = to collaborate on UI - AI. 
+- 🌱 = to collaborate on UI - AI. 
 - 📫 Kishmariageorge@gmail.com
 
 - c0d3r
     - #avatar - https://q1sh0.github.io/root-resume/
     - #Atomic - codex dock UI architecture https://q1sh0.github.io/atomic-codexdock/
 
-- Soc
+- 📫
     - https://twitter.com/q1sh0
     - https://www.upwork.com/freelancers/q1sh0
     - https://www.linkedin.com/in/george-kishmareia-a0a396109/
