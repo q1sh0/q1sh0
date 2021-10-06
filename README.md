@@ -5,13 +5,11 @@
 - = to collaborate on UI - AI. 
 - 📫 Kishmariageorge@gmail.com
 
-- c0d3r:
+- c0d3r
     - #avatar - https://q1sh0.github.io/root-resume/
-    - #Atomic - codex UI architecture https://github.com/q1sh0/atomic-codex
     - #Atomic - codex dock UI architecture https://q1sh0.github.io/atomic-codexdock/
-    - #Atomic - fusn=demo: cyberCity https://q1sh0.github.io/mirror-colony/
 
-- Soc:
+- Soc
     - https://twitter.com/q1sh0
     - https://www.upwork.com/freelancers/q1sh0
     - https://www.linkedin.com/in/george-kishmareia-a0a396109/
