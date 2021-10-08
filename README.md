@@ -7,6 +7,7 @@
 - c0d3r
     - #avatar - https://q1sh0.github.io/root-resume/
     - #Atomic - codex dock UI architecture https://q1sh0.github.io/atomic-codexdock/
+    - #demo https://q1sh0.github.io/mirror-colony/
 
 - 📫
     - https://twitter.com/q1sh0
