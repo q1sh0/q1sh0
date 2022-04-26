@@ -6,6 +6,7 @@
 
 - c0d3r
     - #avatar - https://q1sh0.github.io/root-resume/
+    - #demo   - https://q1sh0.github.io/mirror-colony/
 
 - 📫
     - https://twitter.com/q1sh0
